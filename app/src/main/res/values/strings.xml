@@ -8,4 +8,8 @@
     <string name="textoContinuar">ContinuarA</string>
     <string name="textoCongig">Config</string>
     <string name="textoSalir">Salir</string>
+
+    <!-- Nombre Texto Ej9 -->
+
+    <string name="textoNombre">Nombre</string>
 </resources>

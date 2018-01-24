@@ -68,9 +68,9 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TextView"
+                android:text="@string/textoNombre"
                 android:textAlignment="center"
-                android:background="@color/colorBlanco"/>
+                style="@style/estiloTextoEj9"/>
 
             <RelativeLayout
                 android:layout_width="match_parent"

@@ -47,9 +47,10 @@
         <item name="android:padding">@dimen/marLayout</item>
         <item name="android:background">@drawable/est_layout_ej9</item>
 
+    </style>
 
-
-
+    <style name="estiloTextoEj9">
+        <item name="android:background">@drawable/est_texto_ej9</item>
     </style>
 
 
