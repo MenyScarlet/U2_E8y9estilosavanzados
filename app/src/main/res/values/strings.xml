@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">U2_E8estilosavanzados</string>
+    <string name="textoboton">ACEPTAR</string>
+
+    <!-- Nombre Botones Ej9 -->
+
+    <string name="textoInicio">Inicio</string>
+    <string name="textoContinuar">ContinuarA</string>
+    <string name="textoCongig">Config</string>
+    <string name="textoSalir">Salir</string>
+</resources>

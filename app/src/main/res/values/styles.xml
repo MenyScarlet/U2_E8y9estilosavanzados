@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- Estilo boton -->
+
+
+    <style name="estiloboton">
+        <item name="android:textColor">@color/colorBlanco</item>
+        <item name="android:textSize">@dimen/tamTexto</item>
+        <item name="android:shadowColor">@color/colorRosa</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:radius">5dp</item>
+        <item name="android:background">@drawable/estilo_boton</item>
+
+    </style>
+
+    <!--Estilos de padding y margin-->
+
+    <!-- Estilo Botones Ejer 9 -->
+
+    <style name="estiloBotonesAzules">
+
+        <item name="android:textColor" >@color/colorBlanco</item>
+        <item name="android:textSize" >@dimen/tamTexto</item>
+        <item name="android:background" >@drawable/est_boton_ej9</item>
+        <item name="android:shadowColor" >@color/colorGris</item>
+        <item name="android:shadowDx" >0dp</item>
+        <item name="android:shadowDy" >0dp</item>
+        <item name="android:shadowRadius" >5dp</item>
+        <item name="android:layout_marginBottom" >10dp</item>
+        <item name="android:layout_height">40dp</item>
+
+    </style>
+
+    <!-- Estilo Layout Ejer n9 -->
+    <style name="estiloLayoutEj9">
+
+        <item name="android:layout_margin">@dimen/marLayout</item>
+        <item name="android:background">@color/colorCeleste</item>
+        <item name="android:padding">@dimen/marLayout</item>
+        <item name="android:background">@drawable/est_layout_ej9</item>
+
+
+
+
+    </style>
+
+
+</resources>
